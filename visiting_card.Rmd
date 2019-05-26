@@ -1,0 +1,36 @@
+---
+name: Pankaj Shah
+title: Data Analyst
+phone: "+1 617-955-3342"
+email: "01datascience@gmail.com"
+url: www.pankajshah.ga
+address: |
+  10 Emerson place, Boston Ma 02114
+logo: "https://github.com/shahnp/Businees_card/blob/master/Linkedin_image.png?raw=true"
+cardwidth: 3.5in
+cardheight: 2in
+googlefonts: ["Roboto Condensed", "Raleway"]
+output: pagedown::business_card
+---
+
+```{css}
+.logo {
+    display: block;
+  height: 40%;
+  margin-right: .3in;
+  padding: .3in 0 0;
+  float: left;
+}
+.name {
+  margin-top: .1in;
+}
+
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+```
+
+```{r}
+
+```
+
